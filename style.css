@@ -1,0 +1,112 @@
+.maincontainer {
+    background-color: #F1E3C8;
+    overflow: scroll;
+     height: 100vh;
+    width: 100vw; 
+}
+
+
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    text-align: center;
+    color: #333;
+
+
+}
+
+h2 {
+
+    font-family: 'Playfair Display', serif;
+    font-size: 13px;
+    text-align: left;
+    color: #333;
+}
+
+h3 {
+
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+}
+
+h4 {
+
+    font-family: 'Playfair Display', serif;
+    text-align: left;
+    font-size: 18px;
+    color: #333;
+}
+
+h5 {
+    font-family: 'Playfair Display', serif;
+    text-align: left;
+    font-size: 24px;
+    color: #333;
+}
+
+
+.text {
+position: relative;
+width: 600px;
+left: 200px;
+
+}
+
+
+.box1 {
+    position: relative;
+    left: 200px;
+}
+
+.box2 {
+    position: relative;
+    left: 200px;
+
+}
+
+.box2:hover {
+   
+    border: 12px solid #C4C4C4;
+    height: 500px;
+    width: 550px;
+
+}
+
+
+.box3 {
+   position: relative;
+   padding-left: 200px;
+   width: 300px;
+   height: 200px;
+  
+}
+
+.box4 {
+    position: relative;
+    bottom: 5px;
+}
+
+.box5 {
+    position: relative;
+   left: 800px;
+}
+
+.box5:hover {
+   
+    border: 12px solid #C4C4C4;
+    width: 400px;
+    height: 560px;
+
+}
+
+
+
+.box7 {
+    position: relative;
+    width: 500px;
+    left: 200px;
+    
+}
